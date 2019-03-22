@@ -1,0 +1,18 @@
+.color {
+	background-color: #b83b9f;
+}
+
+p {
+	background: #ccc297;
+	color: #2b4d2b;
+}
+
+span {
+	color: #942872;
+	text-decoration: none;
+}
+
+span#top {
+	color: #000;
+	font-size: 18px;
+}
